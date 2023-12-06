@@ -37,7 +37,7 @@ int calculateCalibrationSum(const std::string& calibrationDocument) {
 
 int main() {
     // Read the calibration document from a file or any other source
-    std::ifstream file();
+    std::ifstream file("/Users/emilmadsen/Library/CloudStorage/OneDrive-Personligt/Personlig/Advent-of-Code/Year 2023/Day 1/input");
     std::stringstream buffer;
     buffer << file.rdbuf();
     std::string calibrationDocument = buffer.str();
