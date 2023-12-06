@@ -1,6 +1,9 @@
 # Compiler
 .vscode
 
+# Mac
+.DS_Store
+
 # Prerequisites
 *.d
 
