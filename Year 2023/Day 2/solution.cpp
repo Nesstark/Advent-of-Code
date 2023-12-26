@@ -12,7 +12,7 @@ int main() {
     // Define the puzzle input
     std::vector<std::string> games = {
         "1 green, 2 red, 6 blue; 4 red, 1 green, 3 blue; 7 blue, 5 green; 6 blue, 2 red, 1 green",
-        // ... (paste the rest of the puzzle input here)
+        
     };
 
     int sumOfPossibleGames = 0;
